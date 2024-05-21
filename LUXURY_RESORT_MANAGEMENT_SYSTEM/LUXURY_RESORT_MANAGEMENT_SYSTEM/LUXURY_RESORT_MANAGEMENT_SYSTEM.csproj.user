@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+    <EnableSQLServerDebugging>true</EnableSQLServerDebugging>
+    <StartProgram>C:\Users\ASUS\Downloads\LuxuryResortManagementSystem-main\LuxuryResortManagementSystem-main\COMPLETED2\COMPLETED2\LUXURY_RESORT_MANAGEMENT_SYSTEM\LUXURY_RESORT_MANAGEMENT_SYSTEM\bin\Debug\LUXURY_RESORT_MANAGEMENT_SYSTEM.exe</StartProgram>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartAction>Project</StartAction>
+    <StartProgram>C:\Users\ASUS\Downloads\LuxuryResortManagementSystem-main\LuxuryResortManagementSystem-main\COMPLETED2\COMPLETED2\LUXURY_RESORT_MANAGEMENT_SYSTEM\LUXURY_RESORT_MANAGEMENT_SYSTEM\bin\Debug\LUXURY_RESORT_MANAGEMENT_SYSTEM.exe</StartProgram>
+  </PropertyGroup>
+</Project>

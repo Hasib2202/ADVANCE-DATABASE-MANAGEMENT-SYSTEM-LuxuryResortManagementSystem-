@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|c:\\users\\asus\\downloads\\luxuryresortmanagementsystem-main\\luxuryresortmanagementsystem-main\\completed2\\completed2\\luxury_resort_management_system\\luxury_resort_management_system\\all user control\\uc_guestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|solutionrelative:luxury_resort_management_system\\all user control\\uc_guestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\luxury_resort_management_system\\all user control\\uc_guestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|solutionrelative:luxury_resort_management_system\\all user control\\uc_guestdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|c:\\users\\asus\\downloads\\luxuryresortmanagementsystem-main\\luxuryresortmanagementsystem-main\\completed2\\completed2\\luxury_resort_management_system\\luxury_resort_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|solutionrelative:luxury_resort_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LUXURY_RESORT_MANAGEMENT_SYSTEM||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|c:\\users\\asus\\downloads\\luxuryresortmanagementsystem-main\\luxuryresortmanagementsystem-main\\completed2\\completed2\\luxury_resort_management_system\\luxury_resort_management_system\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|solutionrelative:luxury_resort_management_system\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|c:\\users\\asus\\downloads\\luxuryresortmanagementsystem-main\\luxuryresortmanagementsystem-main\\completed2\\completed2\\luxury_resort_management_system\\luxury_resort_management_system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|solutionrelative:luxury_resort_management_system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\luxury_resort_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|solutionrelative:luxury_resort_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD440428-E257-4FD6-A1F3-80864F2A80AE}|LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj|c:\\users\\asus\\downloads\\luxuryresortmanagementsystem-main\\luxuryresortmanagementsystem-main\\completed2\\completed2\\luxury_resort_management_system\\luxury_resort_management_system\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_GuestDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\All User Control\\UC_GuestDetails.cs",
+              "RelativeDocumentMoniker": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\All User Control\\UC_GuestDetails.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\All User Control\\UC_GuestDetails.cs",
+              "RelativeToolTip": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\All User Control\\UC_GuestDetails.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:05:53.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LUXURY_RESORT_MANAGEMENT_SYSTEM",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj",
+              "RelativeDocumentMoniker": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj*",
+              "RelativeToolTip": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-19T12:55:32.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\Form1.cs",
+              "RelativeToolTip": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:47:56.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_GuestDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\All User Control\\UC_GuestDetails.cs",
+              "RelativeDocumentMoniker": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\All User Control\\UC_GuestDetails.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\All User Control\\UC_GuestDetails.cs [Design]",
+              "RelativeToolTip": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\All User Control\\UC_GuestDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:03:22.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\packages.config",
+              "RelativeDocumentMoniker": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\packages.config",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\packages.config",
+              "RelativeToolTip": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-19T12:41:28.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\function.cs",
+              "RelativeDocumentMoniker": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\function.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\function.cs",
+              "RelativeToolTip": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:41:27.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\Program.cs",
+              "RelativeDocumentMoniker": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\LuxuryResortManagementSystem-main\\LuxuryResortManagementSystem-main\\COMPLETED2\\COMPLETED2\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\LUXURY_RESORT_MANAGEMENT_SYSTEM\\Program.cs",
+              "RelativeToolTip": "LUXURY_RESORT_MANAGEMENT_SYSTEM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:03:22.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
